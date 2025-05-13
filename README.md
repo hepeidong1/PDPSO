@@ -1,8 +1,6 @@
-# Msp_FvPSO
+# PDPSO
 The code will be uploaded after the paper is accepted
 email: 3140636926@qq.com
-
-Msp_FvPSO: Multiple sample points comprehensive learning and velocity forgetting strategy based particle swarm optimization for solving complex higher-dimensional engineering problems source code (Developed in MATLAB R2023a)
 
  paper:
  Gang Hu, Peidong He.
@@ -19,7 +17,7 @@ The package contains 6 files
         Used to call the cost function
 (3) input_data17
         Related data for the cost function
-(4) Msp_FvPSO.m
+(4) PDPSO.m
         This paper
 (5) PSO.m
         Original particle swarm algorithm
